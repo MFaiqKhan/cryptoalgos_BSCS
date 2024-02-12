@@ -1,4 +1,4 @@
-# Explaination of the code
+# Explanation of the code
 
 The formula (x+k) mod 26 for the Caesar cipher is applied for Encryption 
 and (x-k) mod 26 is applied for Decryption.
